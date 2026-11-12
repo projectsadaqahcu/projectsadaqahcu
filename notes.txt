@@ -1,4 +1,7 @@
 Notes:
-    Add pictures to main page?
-    Could perhaps use QR code to add donation links instead of contacting bank
-    Add email somewhere, maybe
+    Interactive volunteer sign-up (fridays (starting next year); input name and email)
+        Make it so fridays disappear when filled in
+        Option for people to publicly sponsor a passed loved on for a friday (banner on website or docs that can be used for 
+        instagram post)
+    Newsletter: make it so name and email are used for automatic addition to newsletter group
+    Form for volunteer sign up (name, phone number, and email)
